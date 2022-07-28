@@ -1,0 +1,1 @@
+"D:xampp\php\php.exe" -f "D:\xampp\htdocs\cop dcs data auto import\app\Http\Controllers\DcsData.php"
